@@ -12,3 +12,6 @@ A repo consisting intresting and mini Machine Learning Projects.
 - In the interest of time and sanity, we already have a beautiful library called gpt-2 simple, which makes this process easy.
 - 
 
+## Dec_02
+
+- 
