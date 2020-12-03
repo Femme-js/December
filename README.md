@@ -1,6 +1,7 @@
 # December-to-Remember
 A repo consisting intresting and mini Machine Learning Projects.
 
+## Dec_01
 - GPT-2 is the advanced version of a transformer-based model that was trained to generates synthetic text samples from a variety of user-prompts as input.
 - The smaller version which has 117 MB parameters that can be retrained on custom text dataset at the time of this writing.
 
